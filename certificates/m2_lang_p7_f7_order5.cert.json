@@ -1,0 +1,77 @@
+{
+  "schema": "DLP-COGENTIC-CERT-1.0",
+  "mode": "ordinary_elliptic_lang_presentation",
+  "cert_id": "m2_lang_p7_f7_order5",
+  "p": 7,
+  "hq_irred": [
+    6,
+    1
+  ],
+  "a1": [],
+  "a2": [],
+  "a4": [
+    1
+  ],
+  "a6": [
+    1
+  ],
+  "claimed_NE": 5,
+  "point_Q": [
+    [],
+    [
+      1
+    ]
+  ],
+  "order_n": 5,
+  "Mx_irred": [
+    [
+      2
+    ],
+    [
+      6
+    ],
+    [
+      2
+    ],
+    [
+      4
+    ],
+    [
+      3
+    ],
+    [
+      1
+    ]
+  ],
+  "I0_x": [
+    [],
+    [
+      1
+    ]
+  ],
+  "I0_y": [
+    [
+      3
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      4
+    ],
+    [
+      4
+    ]
+  ],
+  "trans_P": [
+    [
+      2
+    ],
+    [
+      2
+    ]
+  ]
+}

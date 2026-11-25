@@ -1,0 +1,20 @@
+import CogenticDiscreteLog
+
+#print axioms CogenticDiscreteLog.def11_not_in_subgroup_soundness
+#print axioms CogenticDiscreteLog.lem31_moore_det_2x2_identity
+#print axioms CogenticDiscreteLog.lem31_affine_moore_reduction
+#print axioms CogenticDiscreteLog.lem32_transvection_det_one_2x2
+#print axioms CogenticDiscreteLog.lem32_transvection_conjugation_sum
+#print axioms CogenticDiscreteLog.lem33_mobius_det_invariance
+#print axioms CogenticDiscreteLog.lem33_cocycle_coboundary_vanish
+#print axioms CogenticDiscreteLog.lem33_degree_gap_q0_ge_3
+#print axioms CogenticDiscreteLog.lem34_jordan_transposition_conj
+#print axioms CogenticDiscreteLog.lem42_parallelogram_cauchy_schwarz
+#print axioms CogenticDiscreteLog.lem41_waterhouse_interval_coprime
+#print axioms CogenticDiscreteLog.lem51_linear_disjointness_pinch
+#print axioms CogenticDiscreteLog.lem51_castelnuovo_induction_step
+#print axioms CogenticDiscreteLog.lem62_recursion_tree_bound
+#print axioms CogenticDiscreteLog.lem63_unimodular_step_det_one
+#print axioms CogenticDiscreteLog.lem64_nonmembership_exponent_sound
+#print axioms CogenticDiscreteLog.sec62_crt_recombination_sound
+#print axioms CogenticDiscreteLog.thm12_parameter_asymptotic_guards

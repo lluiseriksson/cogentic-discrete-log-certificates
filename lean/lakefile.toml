@@ -1,0 +1,7 @@
+name = "CogenticDiscreteLog"
+version = "0.1.0"
+defaultTargets = ["CogenticDiscreteLog"]
+
+[[lean_lib]]
+name = "CogenticDiscreteLog"
+moreLeanArgs = ["-j", "1"]

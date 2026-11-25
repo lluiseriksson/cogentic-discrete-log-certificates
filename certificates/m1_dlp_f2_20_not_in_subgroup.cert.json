@@ -1,0 +1,51 @@
+{
+  "schema": "DLP-COGENTIC-CERT-1.0",
+  "mode": "dlp_zero_error_certificate",
+  "cert_id": "m1_dlp_f2_20_not_in_subgroup",
+  "p": 2,
+  "n": 20,
+  "f_irred": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "g": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "h": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "verdict": "NOT_IN_SUBGROUP",
+  "witness_int": "209715",
+  "crt_audit": null
+}

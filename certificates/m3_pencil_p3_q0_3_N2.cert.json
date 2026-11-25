@@ -1,0 +1,92 @@
+{
+  "schema": "DLP-COGENTIC-CERT-1.0",
+  "mode": "sparse_moore_linearized_pencil",
+  "cert_id": "m3_pencil_p3_q0_3_N2",
+  "p": 3,
+  "s": 1,
+  "t": 4,
+  "hq_irred": [
+    2,
+    1,
+    0,
+    0,
+    1
+  ],
+  "moore_z": [
+    [
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      1
+    ]
+  ],
+  "claimed_moore_det": [
+    1,
+    2,
+    0,
+    2
+  ],
+  "claimed_affine_moore_det": [
+    2,
+    2,
+    1
+  ],
+  "pencil_N": 2,
+  "pencil_L0_terms": {
+    "0": [
+      1,
+      1
+    ],
+    "1": [
+      1,
+      1,
+      1
+    ],
+    "2": [
+      0,
+      2
+    ]
+  },
+  "pencil_L1_terms": {
+    "0": [
+      1,
+      2,
+      2
+    ],
+    "1": [
+      0,
+      0,
+      1
+    ],
+    "2": [
+      2,
+      0,
+      0,
+      1
+    ]
+  },
+  "pencil_delta0": [
+    2,
+    0,
+    1,
+    1
+  ],
+  "pencil_delta1": [
+    1,
+    2,
+    2,
+    1
+  ],
+  "splitting_z0": [
+    0,
+    1
+  ],
+  "claimed_agl_order": "432",
+  "claimed_split_root_count": 9
+}
